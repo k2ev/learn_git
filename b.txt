@@ -1,2 +1,4 @@
+#getting ready for release here
 new file added now: b
 this is a hot fix
+so we continue, we created a tag 0.0. And now we are editing this file/
