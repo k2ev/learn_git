@@ -1,1 +1,2 @@
 new file added now: b
+this is a hot fix
