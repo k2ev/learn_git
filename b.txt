@@ -1,2 +1,2 @@
 new file added now: b
-so we continue, we created a tag 0.0.1. And now we are editing this file/
+this is a hot fix
